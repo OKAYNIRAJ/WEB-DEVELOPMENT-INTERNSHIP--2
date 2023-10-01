@@ -1,4 +1,4 @@
 # WEB-DEVELOPMENT-INTERNSHIP--2
 SECOND TASK OF INTERNSHIP
 CREATING A TEMPERATURE COVERTER USING HTML CSS JS
-here i have added entire code instead of reference links in HTML itself
+here i have added entire code instead of reference links in HTML itself.
